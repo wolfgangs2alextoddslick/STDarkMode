@@ -196,7 +196,7 @@ div[class^="cht-contact cht-contact_unread cht-contact_unknown"] {
   background-color: var(--background-color-mgrey) !important;
 }
 div[class^="container-fluid container-fluid-dispatch"] {
-  background-color: var(--background-color-grey) !important;
+  background-color: var(--background-color) !important;
 }
 div[id^="team-timeline-row-"] {
   background-color: var(--background-color-mgrey) !important;
@@ -272,6 +272,15 @@ tr[role^="row"] {
 }
 textarea[class^="TextArea"] {
   background-color: var(--background-color-sgrey) !important;
+}
+button[class^="Button date-picker-date-button__VC5NV Button--grey Button--solid Button--small"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+button[class^="Button date-picker-icon-button__EuGyU Button--grey Button--solid Button--small Button--icon-only Button--focus-visible"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="k-pager-wrap k-pager k-widget k-grid-pager"] {
+  background-color: var(--background-color) !important;
 }
 /* header__CnQrv */
 
