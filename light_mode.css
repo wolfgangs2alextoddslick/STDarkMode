@@ -96,6 +96,9 @@ text[data-bind^="text: "] {
 text[data-bind^="date: "] {
   color: var(--text-color) !important;
 }
+span[class^="k-link"] {
+  color: var(--text-color) !important;
+}
 
 /* background-color */
 
@@ -240,7 +243,33 @@ div[class^="Stack"] {
 li[class^="fade left success__ot3r4 in p-1 visible transition"] {
   background-color: var(--background-color-grey) !important;
 }
-
+a[class^="new-call"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="menu transition visible"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="ui dropdown search qa-dropdown-search selection"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="ui selection dropdown search optgroup upward"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="ui selection dropdown search optgroup"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="ui fluid multiple search selection dropdown"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="k-grid-header-wrap"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+tr[class^="tech-info-row__FV_VP"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+tr[role^="row"] {
+  background-color: var(--background-color-grey) !important;
+}
 /* header__CnQrv */
 
 /* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
