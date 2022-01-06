@@ -1,0 +1,251 @@
+/* :root {
+  --background-color: #000;
+  --text-color: #ffffff;
+  --text-color-grey: #606162;
+  --background-color-grey: #2D2E31;
+  --background-color-sgrey: #3d3d3e;
+  --backgrouynd-color-mgrey: rgb(166 167 167);
+} */
+
+:root {
+  --background-color: #ffffff;
+  --text-color: #000;
+  --text-color-grey: #000;
+  --background-color-grey: #ffffff;
+  --background-color-sgrey: #ffffff;
+  --backgrouynd-color-mgrey: rgb(234, 239, 242);
+ }
+
+/* Light */
+
+
+/* ST Grey #2D2E31 */
+/* hot pink #e62c6a */
+
+/* --background-color: #282c34;
+--text-color: #abb2bf; */
+
+h1,
+h2,
+h3,
+time,
+p, {
+  color: var(--text-color) !important;
+}
+input {
+  background-color: var(--background-color-sgrey) !important;
+}
+h4 {
+  color: var(--text-color) !important;
+}
+/* blockquote {
+  background-color: var(--background-color) !important;
+} */
+
+/* div[class^="Stack module-container"] {
+  background-color: var(--background-color) !important;
+} */
+
+/* div[class^="fs-5 fw-bold"] {
+  color: var(--text-color) !important;
+} */
+
+/* text-color */
+div[class^="fs-"] {
+  color: var(--text-color) !important;
+}
+div[class^="title__nMdpz qa-category-name"] {
+  color: var(--text-color) !important;
+}
+div[class^="m-r-1 fs-3 fw-bold lh-default"] {
+  color: var(--text-color) !important;
+}
+div[class^="BodyText SideNavItem__button BodyText--small"] {
+  color: var(--text-color) !important;
+}
+a[class^="Link qa-report-title-link Link--blue"] {
+  color: #2270ee !important;
+}
+p[class^="Text fs-2"] {
+  color: var(--text-color) !important;
+}
+div[class^="StackItem align-self-auto StackItem--fill"] {
+  color: var(--text-color) !important;
+}
+div[class^="dashboard-name-container__vCp4h"] {
+  color: var(--text-color) !important;
+}
+span[class^="Button__content"] {
+  color: var(--text-color) !important;
+}
+p[class^="BodyText Trigger__placeholder BodyText--medium"] {
+  color: var(--text-color) !important;
+}
+span[data-bind^="text: Team"] {
+  color: var(--text-color) !important;
+}
+span[class^="name"] {
+  color: var(--text-color) !important;
+}
+span[class^="body"] {
+  color: var(--text-color) !important;
+}
+text[data-bind^="text: "] {
+  color: var(--text-color) !important;
+}
+text[data-bind^="date: "] {
+  color: var(--text-color) !important;
+}
+
+/* background-color */
+
+div[class^="Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-column Stack--justify-content-space-between Stack--align-items-stretch Stack--align-content-stretch"] {
+  background-color: var(--background-color-grey) !important;
+}
+span[class^="icon__EvR3k d-f align-items-center justify-content-center"] {
+  background-color: #2D2E31 !important;
+}
+div[class^="header__CnQrv"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="content__X6PPB"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="title__QXlLP"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="CardSection section__X0azQ"] {
+  background-color: var(--background-color-grey) !important;
+}
+/* div[class^="Stack m-y-half"] {
+  background-color: black !important;
+} */
+div[class^="Page__page"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-column Stack--justify-content-flex-start Stack--align-items-stretch Stack--align-content-stretch"] {
+  background-color: var(--background-color-grey) !important;
+}
+/* div[class^="view-modes__IrHwI"] {
+  background-color: var(--background-color) !important;
+} */
+div[class^="header__y4A6d"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="CardSection container__IRLzg"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Banner qa-converted-banner-review Banner--info"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-flex-start Stack--align-items-stretch Stack--align-content-stretch"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Stack module-container__"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Trigger Trigger--s-small"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="CardSection"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="Avatar avatar__ptfw1 m-r-2 Avatar--l Avatar--circle Avatar--text-alignment"] {
+  background-color: var(--background-color-mgrey) !important;
+}
+div[class^="StackItem d-f flex-basis-0 of-hidden align-self-auto flex-grow-1"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="dashboards-panel__oM2gy"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Sidebar__content"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="call-screen-view-container"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="call-board-container"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="call-screen-container"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="cht-main"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="cht-conversations"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="cht-search-container semantic-anvil-theme"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="cht-state-tab-bar"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="cht-contacts"] {
+  background-color: var(--background-color-mgrey) !important;
+}
+div[class^="cht-contact cht-contact_replied"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="cht-contact cht-contact_unread cht-contact_unknown"] {
+  background-color: var(--background-color-mgrey) !important;
+}
+div[class^="container-fluid container-fluid-dispatch"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[id^="team-timeline-row-"] {
+  background-color: var(--background-color-mgrey) !important;
+}
+div[class^="team team-timeline"] {
+  background-color: var(--background-color-mgrey) !important;
+}
+div[class^="dropdown-menu st-customized-scrollbar float-right"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="calendar-capacity-header clearfix"] {
+  background-color: var(--background-color) !important;
+}
+div[id^="app-base"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="span3"] {
+  background-color: var(--background-color) !important;
+}
+body[class^="new-styling"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="content__erINi"] {
+  background-color: var(--background-color) !important;
+}
+tr[class^="clickable"] {
+  background-color: var(--background-color-grey) !important;
+}
+li[class^="fade left warning__I4Ad6 in p-1 visible transition"] {
+  background-color: var(--background-color-mgrey) !important;
+}
+button[class^="Button button__v0tov p-y-0 p-x-1 Button--grey Button--solid Button--xsmall"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="Stack sidebar__RlvxM sidebar-left__gwO3d control-background__QXPVd sidebar-no-title__Qz3UG"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="SidebarSection flex-grow-1 flex-shrink-0 flex-basis-auto SidebarSection--p-y"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Stack"] {
+  background-color: var(--background-color-grey) !important;
+}
+li[class^="fade left success__ot3r4 in p-1 visible transition"] {
+  background-color: var(--background-color-grey) !important;
+}
+
+/* header__CnQrv */
+
+/* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
+/* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
+/* #8b8b8b */
+
+
+/* header__CnQrv */

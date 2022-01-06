@@ -1,0 +1,42 @@
+{
+  "short_name": "ST Dark",
+  "name": "ST Dark Mode",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "icons/STDarkMode16.png",
+    "48": "icons/STDarkMode48.png",
+    "128": "icons/STDarkMode128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "https://go.servicetitan.com/#/new/dashboards/modular-dashboard",
+    "https://go.servicetitan.com/#/Calls",
+    "https://go.servicetitan.com/#/Bookings",
+    "https://go.servicetitan.com/#/ChatCenter",
+    "https://go.servicetitan.com/#/Calendar",
+    "https://go.servicetitan.com/#/DispatchBoard?link=",
+    "https://go.servicetitan.com/#/new/accounting/invoicing/unbatched",
+    "https://go.servicetitan.com/#/new/accounting/armanagement",
+    "https://go.servicetitan.com/#/new/accounting/bills",
+    "https://go.servicetitan.com/#/new/inventory/replenishment/truck",
+    "https://go.servicetitan.com/#/new/inventory/purchase-orders",
+    "https://go.servicetitan.com/#/new/inventory/receipts/active",
+    "https://go.servicetitan.com/#/new/accounting/bills",
+    "https://go.servicetitan.com/#/new/inventory/returns",
+    "https://go.servicetitan.com/#/new/reports/all",
+    "https://go.servicetitan.com/#/new/reports/scheduled/pending",
+    "https://go.servicetitan.com/#/new/reports/bookmarks",
+    "https://go.servicetitan.com/#/new/reports/recommended",
+    "https://go.servicetitan.com/#/new/marketing/*"
+  ],
+  "manifest_version": 2,
+  "browser_action": {
+    "defualt_icon" : "STDarkMode-16.png",
+    "default_title": "ST Dark"
+  },
+  "version": "0.1"
+}
