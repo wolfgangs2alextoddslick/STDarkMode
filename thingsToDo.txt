@@ -2,3 +2,4 @@
  - Fix Pricebook DarkMode
  - Clean up some divs with extra unnecessary background color
  - Add DarkMode to community.servicetitan.com/s/
+ - Fix Report Creation 

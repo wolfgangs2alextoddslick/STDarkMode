@@ -26,7 +26,6 @@
 --text-color: #abb2bf; */
 
 h1,
-h2,
 h3,
 time,
 p, {
@@ -344,6 +343,21 @@ div[class^="TakeoverSection"] {
   background-color: var(--background-color) !important;
 }
 div[class^="well form-inline"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="CardSection p-x-0 p-y-half flex-grow-1 of-auto"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="CardSection flex-grow-1 flex-shrink-1 of-auto d-f flex-column"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Drawer__header"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Drawer__content"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="Drawer__footer justify-content-between"] {
   background-color: var(--background-color-grey) !important;
 }
 /* header__CnQrv */
