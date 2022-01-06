@@ -331,7 +331,7 @@ div[class^="header__fW2kB qa-campaign-analytics-page-header"] {
   background-color: var(--background-color) !important;
 }
 div[class^="Popover Popover--portal"] {
-  background-color: var(--background-color) !important;
+  background-color: var(--background-color-sgrey) !important;
 }
 div[class^="Togglebox__label"] {
   background-color: var(--background-color-grey) !important;
