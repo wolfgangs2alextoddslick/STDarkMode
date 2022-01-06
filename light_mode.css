@@ -99,6 +99,12 @@ text[data-bind^="date: "] {
 span[class^="k-link"] {
   color: var(--text-color) !important;
 }
+a[class^="k-link"] {
+  color: var(--text-color) !important;
+}
+div[class^="StackItem content__Be9Oi align-self-auto StackItem--fill"] {
+  color: var(--text-color) !important;
+}
 
 /* background-color */
 
@@ -280,6 +286,36 @@ button[class^="Button date-picker-icon-button__EuGyU Button--grey Button--solid 
   background-color: var(--background-color-sgrey) !important;
 }
 div[class^="k-pager-wrap k-pager k-widget k-grid-pager"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="sync-feed__wxVZR semantic-anvil-theme"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="Drawer Drawer--open Drawer--portal Drawer--w-s"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="k-grouping-header k-grouping-header-flex"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-space-between Stack--align-items-stretch Stack--align-content-stretch"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="ButtonGroup__Item"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="k-grid-content k-virtual-content"] {
+  background-color: var(--background-color-sgrey) !important;
+}
+div[class^="Trigger Trigger--s-medium"] {
+  background-color: var(--background-color-grey) !important;
+}
+div[class^="StackItem align-self-auto StackItem--fill"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="header__fW2kB qa-campaign-analytics-page-header"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="Popover Popover--portal"] {
   background-color: var(--background-color) !important;
 }
 /* header__CnQrv */
