@@ -343,6 +343,9 @@ div[class^="TakeoverSection main-section__AfoG7 qa-wizard-main-section"] {
 div[class^="TakeoverSection"] {
   background-color: var(--background-color) !important;
 }
+div[class^="well form-inline"] {
+  background-color: var(--background-color-grey) !important;
+}
 
 /* header__CnQrv */
 
