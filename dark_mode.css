@@ -108,6 +108,21 @@ a[class^="k-link"] {
 div[class^="StackItem content__Be9Oi align-self-auto StackItem--fill"] {
   color: var(--text-color) !important;
 }
+div[class^="selectable-list-item__MxS5f qa-selectable-list-item"] {
+  color: var(--text-color) !important;
+}
+div[class^="ProgressTrackerStep__icon"] {
+  color: var(--text-color) !important;
+}
+div[class^="ProgressTrackerStep__icon"] {
+  color: var(--text-color) !important;
+}
+span[class^="Tooltip c-neutral-300"] {
+  color: var(--text-color-grey) !important;
+}
+div[class^="Headline TakeoverHeader__title Headline--medium"] {
+  color: var(--text-color) !important;
+}
 
 /* background-color */
 
@@ -318,6 +333,17 @@ div[class^="header__fW2kB qa-campaign-analytics-page-header"] {
 div[class^="Popover Popover--portal"] {
   background-color: var(--background-color) !important;
 }
+div[class^="Togglebox__label"] {
+  background-color: var(--background-color-grey) !important;
+  color: var(--text-color-grey) !important;
+}
+div[class^="TakeoverSection main-section__AfoG7 qa-wizard-main-section"] {
+  background-color: var(--background-color) !important;
+}
+div[class^="TakeoverSection"] {
+  background-color: var(--background-color) !important;
+}
+
 /* header__CnQrv */
 
 /* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
