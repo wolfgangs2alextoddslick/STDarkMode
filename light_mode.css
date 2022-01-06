@@ -298,7 +298,7 @@ div[class^="k-grouping-header k-grouping-header-flex"] {
   background-color: var(--background-color-sgrey) !important;
 }
 div[class^="Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-space-between Stack--align-items-stretch Stack--align-content-stretch"] {
-  background-color: var(--background-color) !important;
+  background-color: var(--background-color-grey) !important;
 }
 div[class^="ButtonGroup__Item"] {
   background-color: var(--background-color-sgrey) !important;
