@@ -270,6 +270,9 @@ tr[class^="tech-info-row__FV_VP"] {
 tr[role^="row"] {
   background-color: var(--background-color-grey) !important;
 }
+textarea[class^="TextArea"] {
+  background-color: var(--background-color-sgrey) !important;
+}
 /* header__CnQrv */
 
 /* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
