@@ -11,8 +11,6 @@
     "128": "icons/STDarkMode128.png"
   },
   "permissions": [
-    "activeTab",
-    "tabs",
     "https://go.servicetitan.com/#/new/dashboards/modular-dashboard",
     "https://go.servicetitan.com/#/Calls",
     "https://go.servicetitan.com/#/Bookings",

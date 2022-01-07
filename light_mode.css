@@ -119,6 +119,15 @@ span[class^="Tooltip c-neutral-300"] {
 div[class^="Headline TakeoverHeader__title Headline--medium"] {
   color: var(--text-color) !important;
 }
+td {
+  color: var(--text-color) !important;
+}
+label[class^="control-label"] {
+  color: var(--text-color) !important;
+}
+label[class^="checkbox"] {
+  color: var(--text-color) !important;
+}
 
 /* background-color */
 
@@ -361,6 +370,18 @@ div[class^="Drawer__footer justify-content-between"] {
   background-color: var(--background-color-grey) !important;
 }
 p[class^="BodyText title__SI7tr BodyText--small"] {
+  background-color: var(--background-color-grey) !important;
+}
+button[class^="ms-choice"] {
+  background-color: var(--background-color-grey) !important;
+}
+tr[class^="background-accent"] {
+  background-color: var(--background-color-grey) !important;
+}
+tr[class^="clickable background-accent"] {
+  background-color: var(--background-color-grey) !important;
+}
+li[class^="select2-search-field"] {
   background-color: var(--background-color-grey) !important;
 }
 
