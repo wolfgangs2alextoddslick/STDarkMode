@@ -135,7 +135,7 @@ div[class^="content__X6PPB"] {
   background-color: var(--background-color) !important;
 }
 div[class^="title__QXlLP"] {
-  background-color: var(--background-color-sgrey) !important;
+  background-color: var(--background-color-grey) !important;
 }
 div[class^="CardSection section__X0azQ"] {
   background-color: var(--background-color-grey) !important;
@@ -360,6 +360,10 @@ div[class^="Drawer__content"] {
 div[class^="Drawer__footer justify-content-between"] {
   background-color: var(--background-color-grey) !important;
 }
+p[class^="BodyText title__SI7tr BodyText--small"] {
+  background-color: var(--background-color-grey) !important;
+}
+
 /* header__CnQrv */
 
 /* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
