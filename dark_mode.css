@@ -384,7 +384,18 @@ tr[class^="clickable background-accent"] {
 li[class^="select2-search-field"] {
   background-color: var(--background-color-grey) !important;
 }
-
+th[role^="columnheader"] {
+  background-color: var(--background-color) !important;
+}
+span[class^="k-link"] {
+  background-color: var(--background-color-grey) !important;
+}
+th[class^="k-header"] {
+  background-color: var(--background-color-grey) !important;
+}
+td[class^="editable-cell"] {
+  background-color: var(--background-color-grey) !important;
+}
 /* header__CnQrv */
 
 /* Stack__InternalWrapper Stack--wrap-nowrap Stack--direction-row Stack--justify-content-center Stack--align-items-center Stack--align-content-stretch */
